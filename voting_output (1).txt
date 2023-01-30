@@ -1,0 +1,9 @@
+enter the person's citizenship: 
+Ugandan 
+enter the age of the person: 
+32
+the person cannot vote
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

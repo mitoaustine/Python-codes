@@ -1,0 +1,9 @@
+enter the age of the person: 
+12
+enter the annual income of the person: 
+230000
+unfortunately,we're unable to give you a loan at this time
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

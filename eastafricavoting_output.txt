@@ -1,0 +1,9 @@
+enter the nation of the person: 
+Sudan
+enter the age of the person: 
+23
+not eligible to vote
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

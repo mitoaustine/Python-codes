@@ -1,0 +1,9 @@
+enter the person's citizenship: 
+Kenyan
+enter the age of the person: 
+29
+the person is eligible to vote
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
