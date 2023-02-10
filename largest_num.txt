@@ -1,0 +1,12 @@
+enter three numbers  :
+enter the 1st number :
+23
+enter the 2nd number :
+24
+enter the 3rd number :
+25
+num3 is the largest number
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
