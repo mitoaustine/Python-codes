@@ -1,0 +1,12 @@
+enter score for 3 subjects
+enter score for eng :
+67
+enter score for mat :
+88
+enter score for sci :
+77
+grade is A
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
